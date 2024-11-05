@@ -73,7 +73,7 @@ Alternatively, if you’re using a live server extension in your code editor:
 3. **Access the Site**
    - After deployment, GitHub will provide a URL where the website can be accessed.
 
-**Example: `https://github.com/Akashparmar1/Develop-E-commerce-Website`
+     `https://github.com/Akashparmar1/Develop-E-commerce-Website`
 
 ---
 
